@@ -18,6 +18,10 @@ communities.sas.com
 https://tinyurl.com/5ph4njzy
 https://communities.sas.com/t5/Graphics-Programming/Displaying-Values-for-Histograms/m-p/843090#M23265
 
+hu res sgplot
+https://tinyurl.com/448jema8
+https://github.com/rogerjdeangelis/utl-ascii-line-plot-more-flexible-than-sas-sgplot-and-a-more-powerfull-graphics-editor/blob/main/hstpng1.png
+
 /*               _     _
  _ __  _ __ ___ | |__ | | ___ _ __ ___
 | `_ \| `__/ _ \| `_ \| |/ _ \ `_ ` _ \
@@ -83,7 +87,7 @@ https://communities.sas.com/t5/Graphics-Programming/Displaying-Values-for-Histog
 /*  run;quit;                                               |                         |                                                  */
 /*                                                          |----------------------------------------------------------------------------*/
 /*                                                          |                         |                                                  */
-/*                                                          | 2 SAS SGPLOT            |                                                  */
+/*                                                          | 2 SAS SGPLOT            |       https://tinyurl.com/448jema8               */
 /*                                                          | =============           |                                                  */
 /*                                                          |                         |                                                  */
 /*                                                          |  ods listing            |                                                  */
@@ -266,5 +270,13 @@ ods graphics/reset;
 
 
 /**************************************************************************************************************************/
-/*                                                                                                                        */
+/* https://tinyurl.com/448jema8                                                                                           */
 /**************************************************************************************************************************/
+
+ /*              _
+  ___ _ __   __| |
+ / _ \ `_ \ / _` |
+|  __/ | | | (_| |
+ \___|_| |_|\__,_|
+
+*/
